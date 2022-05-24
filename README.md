@@ -9,7 +9,7 @@
 
 📫 How to reach me: Email - nithin27.dev@outlook.com
 
-😄 Pronouns: He/His
+😄 Pronouns: He/Him
 
 ⚡ Fun fact: My favourite song is Heat Waves by Glass Animals.
 
