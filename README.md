@@ -1,10 +1,16 @@
 # 💫About Me :
 🔭 I’m currently working on my Skills.
+
 🌱 I’m currently learning more about Web 3.0.
+
 🤔 I’m looking for help with Exploring New Technologies.
+
 💬 Ask me about any tech-related stuff.
+
 📫 How to reach me: Email - nithin27.dev@outlook.com
+
 😄 Pronouns: He/His
+
 ⚡ Fun fact: My favourite song is Heat Waves by Glass Animals.
 
 ## 🌐Socials
