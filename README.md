@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nithin1728](https://github.com/Nithin1728)
 
-- 📝 I regularly write articles on [(https://medium.com/@jellybeanx)](https://medium.com/@nittWrites)
+- 📝 I regularly write articles on [https://medium.com/@jellybeanx](https://medium.com/@nittWrites)
 
 - 💬 Ask me about **Django**
 
