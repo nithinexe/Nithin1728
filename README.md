@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nithin but you can call me JellyBean</h1>
+<h1 align="center">Hi 👋, I'm Nithin </h1>
 <h3 align="center">Writing code, building dreams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin1728&label=Profile%20views&color=0e75b6&style=flat" alt="nithin1728" /> </p>
