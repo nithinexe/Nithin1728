@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **nithin27.dev@outlook.com**
 
-- 📄 Know about my experiences [https://github.com/Nithin1728/resume/raw/main/nithin_resume2022.pdf](https://github.com/Nithin1728/resume/raw/main/nithin_resume2022.pdf)
+- 📄 Know about my experiences [https://github.com/Nithin1728/resume/raw/main/nithin_resume(2023).pdf](https://github.com/Nithin1728/resume/raw/main/nithin_resume(2023).pdf)
 
 - ⚡ Fun fact **I'm funny**
 
